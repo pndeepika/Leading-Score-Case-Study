@@ -23,5 +23,7 @@ Accuracy,Precision and Recall
 
 Files:
 LeadScoring.ipynb:Python file for coding
-Assignment Questions and answers:Word document
+
+Assignment Questions and answers:Word document 
+
 Leading Score Case Study:Presentation
