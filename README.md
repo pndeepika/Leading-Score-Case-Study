@@ -8,17 +8,29 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 Steps:
 
 Importing Libraries
+
 Reading the Data
+
 Data cleaning
+
 Data manipulating 
+
 EDA
+
 Univariate and Bi-variate
+
 Dummy variables
+
 Splitting the data to Train-Test sts
+
 Building the model
+
 Model predictions
+
 ROc and AUC curve
+
 Prediction on test set
+
 Accuracy,Precision and Recall
 
 Files:
